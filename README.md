@@ -6,3 +6,7 @@ This is a practice readme text.
 
 NEW THINGS, new branch who dis?
 something new
+
+updates in stage 
+
+Change more
