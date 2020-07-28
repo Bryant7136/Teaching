@@ -4,4 +4,4 @@ This is a practice readme text.
 
 ##Readme Heading 2
 
-NEW THINGS, new branch whoooooooooo dis?
+NEW THINGS, new branch who dis?
